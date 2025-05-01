@@ -4,8 +4,6 @@ import axios from "axios";
 import Nav from "../components/Nav"; // Import your Nav component
 import Footer from "../components/Footer";
 
-// Backend API URL
-const API_URL = "http://localhost:5000/chatbot"; // Replace with your backend URL
 
 // Chatbot Component
 export default function Chatbot() {
